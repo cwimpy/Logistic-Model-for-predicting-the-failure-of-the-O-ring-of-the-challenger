@@ -1,5 +1,4 @@
 # Logistic Model for predicting the failure of the O-ring of the challenger
-
 This project is about predicting the failure of the challenger based on different flight temperatures using logistic regression. 
 
 1. Flight  :  continuous (Flight Number)
